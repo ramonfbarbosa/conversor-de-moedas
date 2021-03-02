@@ -1,0 +1,13 @@
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.exe
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.deps.json
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.runtimeconfig.json
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.runtimeconfig.dev.json
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.dll
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\bin\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.pdb
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.csprojAssemblyReference.cache
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.AssemblyInfo.cs
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.dll
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.pdb
+C:\Users\user\Documents\ws-c#\ExerciciosMembrosEstaticos\ExerciciosMembrosEstaticos\obj\Debug\netcoreapp3.1\ExerciciosMembrosEstaticos.genruntimeconfig.cache
